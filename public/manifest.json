@@ -1,0 +1,26 @@
+{
+  "short_name": "Satellite",
+  "name": "Satellite | Referral Community 🛰️",
+  "description": "Launch a satellite 🛰️ of your own to form a network that spreads all over the world. Be a part of our community, a community that is helping many dreamers achieve their dream job via strong referrals. Find someone who can help you find your dream job or help someone by referring them for their dream job.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
